@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas Moura
-- 👀 I’m interested in development and corruntly I am a developer in a tech startup called Inteliger in Curitiba, BR for almost four years now.
+- 👀 I’m interested in development and I am a developer based in Curitiba Brazil.
   - I am responsable for the first version of our managment software focuse in pharmacies. I'm also helped develop a full scale e-commerce website (from sale to order handling/delivery and payment management)
 - 🌱 I’m currently learning more aboute artificial inteligence and machine learning
 <!-- - 💞️ I’m looking to collaborate on ... -->
